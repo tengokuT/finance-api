@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+pdfplumber
+openpyxl
+python-multipart
